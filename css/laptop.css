@@ -152,6 +152,7 @@ nav a:hover {
 .job-info > div {
   border: #eee solid 1px;
   padding: 60px 20px 30px 20px;
+  min-width: 250px;
 }
 .h3 {
   display: flex;
